@@ -17,6 +17,7 @@ Route::get('/', function () {
 
     return Inertia::render("demo/{$mode}", [
         'whatsappUrl' => $whatsappUrl,
+        'whatsappNumber' => $number,
         'externalCheckoutUrl' => config('analytics.external_checkout_url'),
         'paymentMode' => config('analytics.payment_mode'),
         'productName' => config('analytics.product_name'),
