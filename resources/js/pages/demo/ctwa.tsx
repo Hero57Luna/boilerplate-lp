@@ -1117,7 +1117,7 @@ export default function CtwaDemo({ whatsappNumber }: Props) {
 
     return (
         <div className="fb-landing bg-white font-sans">
-            <Head title="Kelas TOEFL Skor 500+ untuk Submission Beasiswa dan Kerja">
+            <Head title="Raih TOEFL 500+ Cukup 15 Hari. (LMS + Tutor AI)">
                 <meta
                     name="description"
                     content="Persiapkan TOEFL 500+ dalam 15 hari dengan metode belajar terstruktur dari Full Bright Indonesia. Sudah membantu 45.000+ alumni meraih beasiswa & CPNS. Mulai dari Rp99rb."
